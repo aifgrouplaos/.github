@@ -1,3 +1,15 @@
+# Github - Naming Repository
+The best way to name the Github repo is CamelCase and when the project starts only the project manager can make a repository and give access to respective project members. Here are a few examples of GitHub repo names. 
+
+`Example:`
+
+Backend : onex-web-admin-backend or onex-web-admin-service
+
+Frontend : onex-web-admin-frontend  or onex-web-admin
+
+
+
+
 # Semantic Commit Messages
 
 See how a minor change to your commit message style can make you a better programmer.
